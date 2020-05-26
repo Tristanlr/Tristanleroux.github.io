@@ -1,0 +1,32 @@
+body {
+    height: 100%;
+    background-color:rgb(238,245,249);
+}
+
+h1,h2{
+    font-family: 'oswaldregular';
+    padding-top:1em;
+}
+
+nav,p,span,a {
+    font-family: 'robotoregular';
+}
+
+.nav-item:hover {
+	background-color:rgb(0,120,245);
+}
+
+#toggler {
+	border-color: white; 
+}
+.container-fluid,main{
+	    background-color:rgb(238,245,249);
+}
+
+.jumbotron {
+	background: none;
+}
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
